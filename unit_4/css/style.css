@@ -43,7 +43,6 @@ nav{
 nav a{
 	margin: 10px;
 	text-decoration: none;
-
 }
 
 p {
@@ -71,6 +70,7 @@ ul {
 
 ul a {
 	text-decoration: none;
+	text-transform: uppercase;
 }
 
 a{
@@ -108,10 +108,13 @@ a:hover {
 	background-color: #C1C0BE;
 	color: #2C4145;
 	background-size: auto;
+	text-transform: uppercase;
 }
 
+
+
 .paragraphs{
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Hind', sans-serif;
 	text-align: center;
 	padding: 60px 0 30px;
 }
